@@ -2,4 +2,4 @@
 
 See `gh-pages` branch.
 
-    git checkout -b gh-pages
+    git checkout --track origin/gh-pages
