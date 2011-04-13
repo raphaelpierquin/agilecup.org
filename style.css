@@ -1,0 +1,17 @@
+body {
+  font-family: 'Trebuchet MS', Verdana, Arial, sans-serif;
+  font-size: 1em;
+  background-color: #FFF;
+}
+
+div.container {
+  margin: 1em auto;
+  padding: 1em;
+  width: 58em;
+}
+
+img.logo {
+  height: 30px;
+  float: right;
+  padding: 0 0 2em 2em;
+}
