@@ -15,3 +15,8 @@ img.logo {
   float: right;
   padding: 0 0 2em 2em;
 }
+
+div.twitter {
+  float: right;
+  margin: 0 0 2em 2em;
+}
